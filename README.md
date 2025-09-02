@@ -2,5 +2,5 @@
 Projeto teste
 
 # Tecnologias
-[]HTML5
-[]CSS
+HTML5
+CSS
